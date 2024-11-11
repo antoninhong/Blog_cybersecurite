@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de Contact</title>
+    <link rel="stylesheet" href="../css/contact.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-logo">
+            <img src="../images/Logo.png" alt="LOGO">
+            <span>BLOG CYBER</span>
+        </div>
+        <ul class="navbar-links">
+            <li><a href="../html/accueil.html">Accueil</a></li>
+            <li><a href="../offre.html">Offre</a></li>
+            <li><a href="../travaux.html">Travaux</a></li>
+        </ul>
+    </nav>
+    <div class="contact-container">
+        <img src="../images/Logo.png" alt="Logo" class="contact-logo">
+        <h1>Contactez-nous</h1>
+        <form action="#" method="post" class="contact-form">
+            <div class="form-group">
+                <label for="name">Nom :</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email :</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="subject">Objet :</label>
+                <input type="text" id="subject" name="subject" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Message :</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+            </div>
+            <button type="submit" class="submit-button">Envoyer</button>
+        </form>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <div class="footer-contact">
+                <p>Contactez-nous : <a href="mailto:hatitines@gmail.com">hatitines@gmail.com</a></p>
+            </div>
+            <div class="footer-social">
+                <p>Suivez-nous sur :</p>
+                <ul>
+                    <li><a href="https://facebook.com">Facebook</a></li>
+                    <li><a href="https://twitter.com">Twitter</a></li>
+                    <li><a href="https://linkedin.com">LinkedIn</a></li>
+                </ul>
+            </div>
+            <div class="footer-copyright">
+                <p>&copy; 2024 Le Meilleur Blog de Cyber - Tous droits réservés</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
