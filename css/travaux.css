@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* * { */
-    /* box-shadow: 0 0 0 3px red inset; */
-/* } */
 
 body {
     margin: 0;
@@ -90,21 +87,10 @@ body {
     justify-content: space-between;
 }
 
-.img-news {
-    position: absolute;
-    margin-left: 30px ;
-    margin-top: 30px;
-    background-color: white;
-    width: 20vh;
-    height: 20vh;
-    border-radius: 50%;
-}
 
 .title-news {
     font-size:4vh;
-    align-self: flex-end;
-    margin-right: 8vh;
-    margin-top: 5vh;
+    text-align: center;
 }
 
 .link-news {
