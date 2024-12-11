@@ -1,6 +1,6 @@
 # Blog de Cybersécurité
 
-Bienvenue sur le blog de sécurité informatique, un projet réalisé dans le cadre de nos études pour partager et informer sur les sujets actuels de la cybersécurité. Ce site se veut une plateforme accessible pour les personnes intéressées par le domaine de la cybersécurité, les dernières actualités, les offres d’emploi, ainsi que des ressources sur les travaux et projets pertinents du secteur.
+Bienvenue sur le blog de sécurité informatique, un projet réalisé dans le cadre de la SAE : Piloter un projet informatique. Ce site se veut une plateforme accessible pour les personnes intéressées par le domaine de la cybersécurité, les dernières actualités, les offres d’emploi, ainsi que des ressources sur les travaux et projets pertinents du secteur.
 
 ## Contenu du Blog
 
